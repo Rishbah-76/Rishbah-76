@@ -52,3 +52,10 @@ working of the tool/technologies to the core.<br/>
 - 💬 Talk to me about Python, JavaScript, Freelancing Opportunites, Open Source
 - 😄 Pronouns: He/Him/Rishabh/Developer/Fun
 - ⚡ Fun fact: You can learn anything, but will still use Google!!😂😂
+
+
+
+![Rishabh's 𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=Rishbah-76&theme=redical)
+| ![Rishabh's github stats](https://github-readme-stats.vercel.app/api?username=Rishbah-76&show_icons=true) | ![Rishabh's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rishbah-76) |
+| --------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rishbah-76&langs_count=8) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=Rishbah-76&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats) |
