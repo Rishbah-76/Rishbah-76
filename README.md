@@ -20,7 +20,8 @@ working of the tool/technologies to the core.<br/>
 🎯 [Automation](#)<br/>
 
 ##### Follow me on LinkedIn:
-<img src="required/qrcode.png" width="120" height="120">
+<img src="https://github.com/Rishbah-76/Rishbah-76/raw/main/required/qrcode.png" width="120" height="120">
+
 
 
 #### Languages and Tools:
